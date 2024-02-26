@@ -3,7 +3,7 @@ AAI-530-Final
 Final project for AAI-530: AI for IoT, University of San Diego MS-AAI.
 Dashboard App: https://public.tableau.com/app/profile/tyler.foreman5220/viz/AmazonDeforestation_17087340442370/DeforestationDashboard
 
-## Business Understanding (Hypothetical)
+## Business Understanding
 
 The Amazon Basin is covered with approximately 5.5M km2 of rainforest (Wikipedia contributors, 2024c).  Covering such a large area with traditional UAV systems would be impractical due to the need for human pilots, frequent battery swaps and lack of edge processing to handle the large volumes of data that would be collected.  Instead, a system that is fully autonomous, self-sufficient and able to operate in remote locations is required.
 
