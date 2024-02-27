@@ -1,6 +1,8 @@
 # Amazon Deforestation Forecasting Using AI/ML and IoT Data
 AAI-530-Final
+
 Final project for AAI-530: AI for IoT, University of San Diego MS-AAI.
+
 Dashboard App: https://public.tableau.com/app/profile/tyler.foreman5220/viz/AmazonDeforestation_17087340442370/DeforestationDashboard
 
 ## Business Understanding
